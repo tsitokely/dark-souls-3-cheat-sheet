@@ -1,0 +1,25 @@
+{
+  "name": "dark-souls-3-cheat-sheet",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsitokely/dark-souls-3-cheat-sheet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsitokely/dark-souls-3-cheat-sheet/issues"
+  },
+  "homepage": "https://github.com/tsitokely/dark-souls-3-cheat-sheet#readme"
+}
